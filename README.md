@@ -5,7 +5,7 @@
 
 <br>
 
-<image src="results/attention-1.png"  />
+<image src="fig/attention-1.png"  />
 <br>
 
 </div>
