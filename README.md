@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>AMC: Attention Motion Composer using Optical Flow for Text-to-Video Editing Model</h1>
+<h1>Motion-to-Attention: Attention Motion Composer using Optical Flow for Text-to-Video Editing</h1>
 
 
 <br>
